@@ -1,18 +1,18 @@
 ### Olá! 👋 Eu sou o Guilherme Ribeiro
 
-- 🔭 Atualmente atuo como Desenvolvedor de Software (2 anos):
-    - .NET C# (API's, Workers, Windows Forms)
-    - NodeJs (NestJs, Typescript)
-    - Laravel 11 
+- 🔭 Atualmente atuo como Desenvolvedor de Software na NCam:
+    -  NodeJs (NestJs, Typescript),
     - SQL Server, Postgres, Redis, MySQL,
     - ReactJs, VueJs.
-    
+
+
 
 - 🌱 Graduando em Sistema de Informação pelo IFC - Insituto Federal Catarinense
 
 - ⚡ Projetos pessoais em desenvolvimento::
 -     - Finance-Control: uma plataforma para controlar os gastos mensais com múltiplos cartões  
 
+Sou um profissional com 3 anos de experiência na área de desenvolvimento (WEB, Forms, Nativo) e na Arquitetura e Planejamento de Softwares.
 
 <div align="center">
   <a href="https://github.com/guilherme-ribeiro27">
