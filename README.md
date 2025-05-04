@@ -1,10 +1,9 @@
 ### Olá! 👋 Eu sou o Guilherme Ribeiro
 
-- 🔭 Atualmente atuo como Desenvolvedor de Software na NCam:
-    -  NodeJs (NestJs, Typescript),
+- 🔭 Atuo como Desenvolvedor de Fullstack:
+    - NodeJs (NestJs, Typescript), C#, Go,
     - SQL Server, Postgres, Redis, MySQL,
     - ReactJs, VueJs.
-
 
 
 - 🌱 Graduando em Sistema de Informação pelo IFC - Insituto Federal Catarinense
