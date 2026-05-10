@@ -1,15 +1,22 @@
 ### Olá! 👋 Eu sou o Guilherme Ribeiro
 
-- 🔭 Atuo como Desenvolvedor de Fullstack:
-    - NodeJs (NestJs, Typescript), C#, Go,
+- 🔭 Atuo como Desenvolvedor Fullstack:
+    - NodeJs (NestJs, Typescript, Expressa), .NET,
     - SQL Server, Postgres, Redis, MySQL,
+    - Automações (Tasks, Scheduler),
     - ReactJs, VueJs.
 
+- 🔭 Tenho experiência em gerenciamento e Tech Lead, atuando com:
+    - Gerenciamento de atividades e sprint (Jira, Azure DevOps),
+    - Controle de repositórios (GitHub, BitBucket, Azure DevOps),
+    - Manutenção e sustenção de ambiente Cloud (GCP).
 
-- 🌱 Graduando em Sistema de Informação pelo IFC - Insituto Federal Catarinense
-
-- ⚡ Projetos pessoais em desenvolvimento::
--     - Finance-Control: uma plataforma para controlar os gastos mensais com múltiplos cartões  
+- 🔭 IA:
+    - Experiênca com planejamento de atividades com Claude, Cursor,
+    - Revisão de PR's e atividades.
+    - Desenvolvimento controlado com Claude Code.
+      
+- 🌱 Graduado em Sistema de Informação pelo IFC - Insituto Federal Catarinense
 
 Sou um profissional com 3 anos de experiência na área de desenvolvimento (WEB, Forms, Nativo) e na Arquitetura e Planejamento de Softwares.
 
@@ -24,7 +31,7 @@ Sou um profissional com 3 anos de experiência na área de desenvolvimento (WEB,
 ### Stack Backend e Scripts:
 
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="Gui-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +41,7 @@ Sou um profissional com 3 anos de experiência na área de desenvolvimento (WEB,
 
 ### Stack Frontend e Mobile:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,7 +50,7 @@ Sou um profissional com 3 anos de experiência na área de desenvolvimento (WEB,
 
 ### "Stack" Banco de dados:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
 
   <img align="center" alt="Gui-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Gui-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
